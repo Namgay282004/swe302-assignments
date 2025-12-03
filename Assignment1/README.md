@@ -165,7 +165,7 @@ Integration testing achieved through:
 cd react-redux-realworld-example-app
 npm test
 ```
-![](img/1alltest.png)
+![](img1/alltest.png)
 
 ### Final Test Count
 | Category | Tests Implemented | Requirement | Status |

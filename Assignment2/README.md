@@ -8,19 +8,19 @@
 ```
 snyk test
 ```
-![](img/backend.png)
+![](img2/backend.png)
 
 **Test for open source vulnerabilities**
 ```
 snyk test --all-projects
 ```
-![](img/backend-all.png)
+![](img2/backend-all.png)
 
 **Monitor project**
 ```
 snyk monitor
 ```
-![](img/backend-dash.png)
+![](img2/backend-dash.png)
 
 **1.1 Setup and Backend Analysis** 
 - **Deliverable:** `snyk-backend-analysis.md` 
@@ -35,19 +35,19 @@ snyk monitor
 ```
 snyk test
 ```
-![](img/frontend.png)
+![](img2/frontend.png)
 
 **Test for code vulnerabilities (not just dependencies)**
 ```
 snyk code test
 ```
-![](img/frontend-code-test.png)
+![](img2/frontend-code-test.png)
 
 **Monitor project**
 ```
 snyk monitor
 ```
-![](img/frontend-dash.png)
+![](img2/frontend-dash.png)
 
 **1.2 Frontend Analysis** 
 - **Deliverable:** `snyk-frontend-analysis.md`  
@@ -89,20 +89,20 @@ snyk monitor
 
 **Overall Dashboard**
 
-![](img/sonar1.png)
-![](img/sonar2.png)
+![](img2/sonar1.png)
+![](img2/sonar2.png)
 
 **Issues Lists**
 
-![](img/issues-b.png)
+![](img2/issues-b.png)
 
 **Security Hotspots Page**
 
-![](img/sh-backend.png)
+![](img2/sh-backend.png)
 
 **Code Coverage Page**
 
-![](img/code-coverage.png)
+![](img2/code-coverage.png)
 
 **2.2 Frontend Analysis** 
 - **Deliverable:** `sonarqube-frontend-analysis.md` 
@@ -124,20 +124,20 @@ snyk monitor
 
 **Overall Dashboard**
 
-![](img/sonar1.png)
-![](img/sonar2.png)
+![](img2/sonar1.png)
+![](img22/sonar2.png)
 
 **Issues Lists**
 
-![](img/issues-f.png)
+![](img2/issues-f.png)
 
 **Security Hotspots**
 
-![](img/sh-frontend.png)
+![](img2/sh-frontend.png)
 
 **Code Duplication**
 
-![](img/code-duplication.png)
+![](img2/code-duplication.png)
 
 ---
 
@@ -145,9 +145,9 @@ snyk monitor
 
 ####  Task 3: OWASP ZAP DAST Analysis
 
-![](img/1.png)
+![](img2/1.png)
 
-![](img/2.png)
+![](img2/2.png)
 
 **3.1 Passive Scan Analysis** 
 - **Deliverable:** `zap-passive-scan-analysis.md` 
