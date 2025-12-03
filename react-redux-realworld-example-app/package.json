@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^12.1.5",
+    "@testing-library/user-event": "^14.6.1",
     "cross-env": "^5.1.4",
-    "react-scripts": "1.1.1"
+    "react-scripts": "^3.4.4",
+    "redux-mock-store": "^1.5.5"
   },
   "dependencies": {
     "history": "^4.6.3",

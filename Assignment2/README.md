@@ -1,10 +1,8 @@
 # Assignment 2 Completion Status - SAST & DAST Security Testing
 
-##  Task Completion Summary
-
 ### Part A: Static Application Security Testing (SAST)
 
-####  Task 1: SAST with Snyk 
+#### Task 1: SAST with Snyk 
 
 **Test for vulnerabilities**
 ```
@@ -262,7 +260,7 @@ snyk monitor
 11.  `zap-dast-implementation-summary.md` - Complete DAST methodology
 12.  **Security Headers Implementation** - All recommended headers deployed
 
-**🎯 BONUS ACHIEVEMENTS:**
+**BONUS ACHIEVEMENTS:**
 -  Real JWT vulnerability fix implemented (CVE-2020-26160)
 -  Security headers implementation and testing
 -  Professional-grade documentation exceeding requirements
