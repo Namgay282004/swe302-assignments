@@ -26,7 +26,7 @@ Articles Package:  29.3% coverage (tests implemented, limited by DB constraints)
  Integration Tests: 15 test scenarios (100% pass rate)
  Users Package:     Existing comprehensive test suite maintained
 ```
-![](img/coverage.png)
+![](img1/coverage.png)
 
 ---
 
@@ -39,7 +39,7 @@ Articles Package:  29.3% coverage (tests implemented, limited by DB constraints)
 - **Validators Testing**: Input validation, error handling
 - **Business Logic**: Complete CRUD operations coverage
 
-    ![](img/articles-unit.png)
+    ![](img1/articles-unit.png)
 
 ### 2. **Common Package Enhancements** (`common/unit_test.go`) 
 - **5+ additional test functions**
@@ -47,7 +47,7 @@ Articles Package:  29.3% coverage (tests implemented, limited by DB constraints)
 - **Utilities Testing**: Random string generation, error handling
 - **Database Testing**: Connection handling, error scenarios
 
-    ![](img/common-unit.png)
+    ![](img1/common-unit.png)
 
 
 ### 3. **Integration Tests** (`integration_test.go`)
@@ -56,7 +56,7 @@ Articles Package:  29.3% coverage (tests implemented, limited by DB constraints)
 - **Framework Testing**: Gin setup, middleware, error handling
 - **Security Testing**: Authentication, CORS, response formats
 
-    ![](img/integration.png)
+    ![](img1/integration.png)
 
 
 ### 4. **Documentation & Analysis**
@@ -113,7 +113,7 @@ Successfully implemented comprehensive component tests for all required componen
 
 **Result**: 33 test cases (Exceeds requirement of 20 tests)
 
-![](img/task4.png)
+![](img1/task4.png)
 ### Task 5: Redux Integration Tests
 
 Successfully implemented comprehensive Redux tests:
@@ -137,7 +137,7 @@ Successfully implemented comprehensive Redux tests:
 
 **Result**: 42 Redux tests (Significantly exceeds requirements)
 
-![](img/task5.png)
+![](img1/task5.png)
 
 ### Task 6: Frontend Integration Tests
 
@@ -146,7 +146,7 @@ Integration testing achieved through:
 - Middleware tests validating Redux flow with localStorage and async operations
 - End-to-end user workflows tested in component tests (login, article creation, favoriting)
 
-![](img/task6.png)
+![](img1/task6.png)
 
 **Note**: E2E tests with Cypress were implemented in Assignment 3 and complement these unit/integration tests.
 
@@ -165,7 +165,7 @@ Integration testing achieved through:
 cd react-redux-realworld-example-app
 npm test
 ```
-![](img/alltest.png)
+![](img/1alltest.png)
 
 ### Final Test Count
 | Category | Tests Implemented | Requirement | Status |
